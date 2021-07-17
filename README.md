@@ -22,7 +22,7 @@ Live preview: https://renzodupont.github.io/mit-career-2021/week-11/
 
 # Contact info
 
-📫 https://www.linkedin.com/in/renzo-dupont-b9797941/ | https://twitter.com/renzodupont | https://instagram.com/renzodupont
+📫 https://www.linkedin.com/in/renzo-dupont-b9797941/ | https://twitter.com/renzodupont
 
 # License information
 
